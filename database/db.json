@@ -1,0 +1,20 @@
+{
+    "motorbike": [
+        {
+            "id": "1",
+            "name_ph32353": "Xe 1",
+            "price_ph32353": 20000,
+            "color_ph32353": "Xanh",
+            "describe_ph32353": "Xe mới",
+            "image_ph32353": "https://toquoc.mediacdn.vn/280518851207290880/2022/12/3/main-bike-blue-kv-16700345010751796375248.jpg"
+        },
+        {
+            "id": "2",
+            "name_ph32353": "Xe 2",
+            "price_ph32353": 30000,
+            "color_ph32353": "Đỏ",
+            "describe_ph32353": "Xe mới",
+            "image_ph32353": "https://toquoc.mediacdn.vn/280518851207290880/2022/12/3/main-bike-blue-kv-16700345010751796375248.jpg"
+        }
+    ]
+}
